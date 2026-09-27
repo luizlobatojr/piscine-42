@@ -1,16 +1,23 @@
-# 🏊‍♂️ 42 Piscine
+🏊‍♂️ 42 Piscine
 
-Repositório dedicado aos projetos, rushs e exercícios resolvidos durante a **Piscine** da 42.
+Repository dedicated to the projects, rushes, and exercises solved during the 42 Piscine.
 
-## 🛠️ Sobre a Piscina
-A *Piscine* é o processo de seleção imersivo da 42, focado na linguagem **C**, programação imperativa, algoritmos e na metodologia de aprendizagem entre pares (*peer-to-peer*).
+🛠️ About the Piscine
 
-## 📂 Estrutura
-- `C XX/` - Exercícios diários (Shell e C).
-- `Rush XX/` - Projetos em equipe de fim de semana.
-- `Exam XX/` - Provas práticas.
+The Piscine is the immersive selection process at 42, focused on the C programming language, imperative programming, algorithms, and the peer-to-peer learning methodology.
 
-## 🚀 Tecnologias
-* Linguagem C
-* Shell Script / Bash
-* Makefiles
+📂 Structure
+
+C XX/ - Daily exercises (Shell and C).
+
+Rush XX/ - Weekend team projects.
+
+Exam XX/ - Practical exams.
+
+🚀 Technologies
+
+C Language
+
+Shell Script / Bash
+
+Makefiles
